@@ -1,55 +1,51 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você acha que pode ser autista ?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Você tem quantos amigos ?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Apenas 1", "alias":"A"},
+        {"id": 2, "name":"Apenas 2", "alias":"A"},
+        {"id": 3, "name":"Mais de 5", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": " Você gosta de festas com muita gente e música alta?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Sim", "alias":"B"},
+        {"id": 2, "name":"Não", "alias":"A"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Quando vai para o trabalho ou escola...",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Gosta de mudar o caminho às vezes", "alias":"B"},
+        {"id": 2, "name":"Sempre vai pelo mesmo caminho", "alias":"A"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Quando alguém chega no ambiente que você está...",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Cumprimenta com naturalidade", "alias":"B"},
+        {"id": 2, "name":"Sente um certo incômodo e cumprimenta para não ser mal educado", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Você compartilha da maioria dos interesses de outras pessoas ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Não", "alias":"A"},
+        {"id": 2, "name":"Sim", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você pode ser autista, porém apenas um profissional especialista poderá confirmar!",
+    "B": "Você pode não ser autista, porém apenas um profissional especialista poderá confirmar!"
   }
+
 }
