@@ -36,7 +36,7 @@
     },
     {
       "id":5,
-      "question": "Você compartilha da maioria dos interesses de outras pessoas ?",
+      "question": "Você compartilha da maioria dos interesses de outras pessoas?",
       "options":[
         {"id": 1, "name":"Não", "alias":"A"},
         {"id": 2, "name":"Sim", "alias":"B"}
